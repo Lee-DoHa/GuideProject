@@ -7,3 +7,8 @@
 - 스팟 후기 작성
 - 상세 정보 데이터들 관리
 - DB MySQL, MongoDB
+
+## Tools
+- Spring Boot
+- Spring Security
+- JPA
