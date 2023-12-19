@@ -1,10 +1,12 @@
 package com.guide.server.domain.entity;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 public class Grade {
+
     @Id
-    Long id;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "grade_id")
+    private Long id;
 }
