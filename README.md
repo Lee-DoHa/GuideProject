@@ -6,7 +6,9 @@
 - 지도 API -> 카카오 지도 api -> 서버작업 필요한 부분 알아보기
 - 스팟 후기 작성
 - 상세 정보 데이터들 관리
+- 웹으로 빠르게 볼수있는 환경 구성
 - DB MySQL, MongoDB
+- 
 
 ## Tools
 - Spring Boot
